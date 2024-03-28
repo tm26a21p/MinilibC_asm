@@ -8,7 +8,7 @@ The MinilibC project, coded in x86-64 Assembly, aimed to delve deeper into the i
 
 - **Binary Name:** `libasm.so`
 - **Group Size:** 1
-- **Language:** x86-64 Assembly
+- **Language:** x86-64 Assembly, tests in C
 - **Compilation:** Managed via a Makefile, including `re`, `clean`, and `fclean` rules.
 
 ## Key Objectives
